@@ -1,0 +1,1 @@
+import{o as e,t}from"./link-D-PdS6ty.js";var n=e(),r=()=>(0,n.jsxs)(`div`,{className:`text-center py-32`,children:[(0,n.jsx)(`h1`,{className:`font-display text-4xl text-maroon`,children:`This style isn’t available`}),(0,n.jsx)(t,{to:`/shop`,className:`inline-block mt-6 underline`,children:`Browse the collection`})]});export{r as notFoundComponent};
